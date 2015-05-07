@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7416918-2479-4A65-AD10-16571C5F50F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YSRCustomNavigationBar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7728023291FE7BE21D3304B5AE478F66788E944E</key>
+		<string>https://github.com/shoron/CustomNavigationBarHeight.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YSRCustomNavigationBar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7728023291FE7BE21D3304B5AE478F66788E944E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shoron/CustomNavigationBarHeight.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7728023291FE7BE21D3304B5AE478F66788E944E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7728023291FE7BE21D3304B5AE478F66788E944E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomNavigationBarHeight</string>
+		</dict>
+	</array>
+</dict>
+</plist>
